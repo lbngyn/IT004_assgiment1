@@ -18,12 +18,12 @@ def readFile( isDM ):
         if ((str(excel_file[0:2]) == 'DM') != isDM ) : continue 
         df = pd.read_excel(os.path.join(folder_path, excel_file))                       
         sql_file = os.path.splitext(excel_file)[0] + '.sql'                             
-
+        
         with open(os.path.join(folder_path, sql_file), 'w', encoding='utf-8') as f:      
+            f.write('use TRUONGHOC;\n') 
             for index, row in df.iterrows():           
 
                 if isDM: 
-                    f.write('use TRUONGHOC;') 
                     values = ", ".join("'" + str(x) + "'" for x in row.values)              
                     insert_statement = (f'INSERT INTO {excel_file[0:len(excel_file)-5]} VALUES ({values});\n').format(values)
                     ma = str(row['Ma'])
@@ -32,7 +32,6 @@ def readFile( isDM ):
                     f.write(insert_statement)
 
                 else : 
-                    f.write('use TRUONGHOC;') 
                     ma = str(row['Ma_Truong'])
                     ten = str(row['Ten_Truong'])
                     dc = str(row['Dia_chi'])   
