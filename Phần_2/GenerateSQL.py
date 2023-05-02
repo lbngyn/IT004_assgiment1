@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 import os
+from unidecode import unidecode
 
-folder_path = r'D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data'
-# folder_path = input("Nhập đường dẫn thư mục: ")
+folder_path = input("Nhập đường dẫn thư mục: ")
 
 # Lấy danh sách các file Excel trong thư mục
 excel_files = [f for f in os.listdir(folder_path) if f.endswith('.xlsx')] 
@@ -24,20 +24,20 @@ def readFile( isDM ):
             for index, row in df.iterrows():           
 
                 if isDM: 
-                    values = ", ".join("'" + str(x) + "'" for x in row.values)              
+                    values = ", ".join("'" + unidecode(str(x)) + "'" for x in row.values)              
                     insert_statement = (f'INSERT INTO {excel_file[0:len(excel_file)-5]} VALUES ({values});\n').format(values)
-                    ma = str(row['Ma'])
-                    ten = str(row['Ten'])
+                    ma = unidecode(str(row['Ma']))
+                    ten = unidecode(str(row['Ten']))
                     dictionary[ten] = ma 
                     f.write(insert_statement)
 
                 else : 
-                    ma = str(row['Ma_Truong'])
-                    ten = str(row['Ten_Truong'])
-                    dc = str(row['Dia_chi'])   
-                    lh = dictionary[str(row['Loai_hinh'])] #if str(row['Loai_hinh']) != 'nan' else 'NULL'
-                    lt = dictionary[str(row['Loai_Truong'])] #if str(row['Loai_Truong']) != 'nan' else 'NULL'
-                    pgd = dictionary[str(row['Phong_GDDT'])] #if str(row['Phong_GDDT']) != 'nan' else 'NULL'
+                    ma = unidecode(str(row['Ma_Truong']))
+                    ten = unidecode(str(row['Ten_Truong']))
+                    dc = unidecode(str(row['Dia_chi']))   
+                    lh = dictionary[unidecode(str(row['Loai_hinh']))] 
+                    lt = dictionary[unidecode(str(row['Loai_Truong']))] 
+                    pgd = dictionary[unidecode(str(row['Phong_GDDT']))] 
 
                     values = f'"{ma}", "{ten}", "{dc}", "{pgd}", "{lh}", "{lt}"'
                     insert_statement = (f'INSERT INTO {excel_file[0:len(excel_file)-5]} VALUES ({values});\n').format(values)
