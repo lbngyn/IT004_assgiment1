@@ -1,0 +1,19 @@
+mysql -u root -p<D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\CreateSchema.sql
+
+mysql -u root -p
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\DM_LH.sql
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\DM_LT.sql
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\DM_PHG_GDDT.sql
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\GDTX.sql
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\MN.sql
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\TH.sql
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\THCS.sql
+
+source D:\nguyen\Material\IT004.N21.CTTN\Assgiment1\Data\THPT.sql
