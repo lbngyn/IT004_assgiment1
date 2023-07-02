@@ -1,0 +1,2814 @@
+<?xml version="1.0" ?>
+<Root>
+	<HocSinhList>
+		<HocSinh>
+			<Ho>Dong Canh Tinh</Ho>
+			<Ten>Hieu</Ten>
+			<NTNS>2008-02-25</NTNS>
+			<DiemTB>2.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuc Thu Tam</Ho>
+			<Ten>Dung</Ten>
+			<NTNS>2007-06-26</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Suong Tinh</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2001-10-09</NTNS>
+			<DiemTB>3.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dong Bao Khanh</Ho>
+			<Ten>Sa</Ten>
+			<NTNS>2001-02-15</NTNS>
+			<DiemTB>4.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Do Hanh Hoang</Ho>
+			<Ten>Huy</Ten>
+			<NTNS>2000-04-04</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Long An</Ho>
+			<Ten>Thu</Ten>
+			<NTNS>2002-03-13</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ky Tri Nghia</Ho>
+			<Ten>Chien</Ten>
+			<NTNS>2006-01-26</NTNS>
+			<DiemTB>0.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tieu My Khanh</Ho>
+			<Ten>Trang</Ten>
+			<NTNS>2007-03-09</NTNS>
+			<DiemTB>2.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bo Duy Loi</Ho>
+			<Ten>Quang</Ten>
+			<NTNS>1999-07-20</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Hung Binh</Ho>
+			<Ten>Loc</Ten>
+			<NTNS>1998-03-25</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Kieu Hoan </Ho>
+			<Ten>Linh</Ten>
+			<NTNS>2008-03-20</NTNS>
+			<DiemTB>3.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luong Hung Ha</Ho>
+			<Ten>Danh</Ten>
+			<NTNS>2003-11-19</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bach Manh Thuy</Ho>
+			<Ten>Phuong</Ten>
+			<NTNS>2006-07-10</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nguyen Thu Trong</Ho>
+			<Ten>Lan</Ten>
+			<NTNS>2008-07-28</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Su Bich Minh</Ho>
+			<Ten>Hiep</Ten>
+			<NTNS>1998-11-09</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phuong Chuong Tam</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>1997-09-20</NTNS>
+			<DiemTB>3.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nghe Hung Thanh</Ho>
+			<Ten>Long</Ten>
+			<NTNS>2008-09-23</NTNS>
+			<DiemTB>3.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuc Thi Dai</Ho>
+			<Ten>Phuc</Ten>
+			<NTNS>2002-03-23</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quang Nguyen Suong</Ho>
+			<Ten>Hau</Ten>
+			<NTNS>2003-02-18</NTNS>
+			<DiemTB>2.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phuong Bao Hai</Ho>
+			<Ten>Chieu</Ten>
+			<NTNS>2004-03-24</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bach Dinh Manh</Ho>
+			<Ten>Vinh</Ten>
+			<NTNS>1997-11-03</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Hong Dong</Ho>
+			<Ten>Lien</Ten>
+			<NTNS>2009-06-10</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vu Nha Son</Ho>
+			<Ten>Dat</Ten>
+			<NTNS>1998-04-01</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khong Thu Tri</Ho>
+			<Ten>Dao</Ten>
+			<NTNS>2009-11-21</NTNS>
+			<DiemTB>3.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Nga Khoi</Ho>
+			<Ten>Nguyet</Ten>
+			<NTNS>1999-07-04</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Thao Hoan</Ho>
+			<Ten>Duong</Ten>
+			<NTNS>2007-09-26</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tieu My Bao</Ho>
+			<Ten>Truong</Ten>
+			<NTNS>2007-05-22</NTNS>
+			<DiemTB>2.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Hiep Danh</Ho>
+			<Ten>Long</Ten>
+			<NTNS>2009-02-17</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ho Tam Hung</Ho>
+			<Ten>Sang</Ten>
+			<NTNS>2008-03-13</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Banh Cong Tam</Ho>
+			<Ten>Truong</Ten>
+			<NTNS>2003-01-13</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thai Nguyen Thi</Ho>
+			<Ten>Tuyen</Ten>
+			<NTNS>2009-08-09</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Hoang Loi</Ho>
+			<Ten>Quang</Ten>
+			<NTNS>2004-08-15</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Son Hong Duc</Ho>
+			<Ten>Thu</Ten>
+			<NTNS>2008-07-26</NTNS>
+			<DiemTB>0.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Su Nguyet Trung</Ho>
+			<Ten>Hoai</Ten>
+			<NTNS>2006-03-18</NTNS>
+			<DiemTB>4.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Lam Dong</Ho>
+			<Ten>Kien</Ten>
+			<NTNS>2009-11-09</NTNS>
+			<DiemTB>0.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Le Hung Tuong</Ho>
+			<Ten>Xuan</Ten>
+			<NTNS>2008-11-15</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lo Yen Van</Ho>
+			<Ten>Hoa</Ten>
+			<NTNS>2002-05-10</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bui Phuong Duy</Ho>
+			<Ten>Hieu</Ten>
+			<NTNS>2003-01-26</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Hoang Binh</Ho>
+			<Ten>Luong</Ten>
+			<NTNS>2006-03-01</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Phuong Trung</Ho>
+			<Ten>Kim</Ten>
+			<NTNS>2009-09-09</NTNS>
+			<DiemTB>4.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tieu Tuyet Phong</Ho>
+			<Ten>An</Ten>
+			<NTNS>2007-11-28</NTNS>
+			<DiemTB>0.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nghe Dung Nghi</Ho>
+			<Ten>Chanh</Ten>
+			<NTNS>2004-08-01</NTNS>
+			<DiemTB>0.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ta Chuong Phuc</Ho>
+			<Ten>Chien</Ten>
+			<NTNS>2000-05-12</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phuong Tung Viet</Ho>
+			<Ten>Danh</Ten>
+			<NTNS>2004-07-15</NTNS>
+			<DiemTB>3.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lai Bich Long</Ho>
+			<Ten>Linh</Ten>
+			<NTNS>2006-08-12</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hong Lam Binh</Ho>
+			<Ten>Thanh</Ten>
+			<NTNS>2004-10-06</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lam Trung Loi</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2004-01-19</NTNS>
+			<DiemTB>4.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tran Thuy Ngan</Ho>
+			<Ten>Hoa</Ten>
+			<NTNS>2007-03-21</NTNS>
+			<DiemTB>3.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chau Dai Thuy</Ho>
+			<Ten>Kien</Ten>
+			<NTNS>2008-07-24</NTNS>
+			<DiemTB>0.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chau Nguyen Bich</Ho>
+			<Ten>Duong</Ten>
+			<NTNS>2005-10-25</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bui Thanh Thang</Ho>
+			<Ten>Ngoc</Ten>
+			<NTNS>2000-10-18</NTNS>
+			<DiemTB>3.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mach Hoang Duc</Ho>
+			<Ten>Hai</Ten>
+			<NTNS>2002-10-15</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lo Hoang Hong</Ho>
+			<Ten>My</Ten>
+			<NTNS>2009-10-19</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Nghi Tung</Ho>
+			<Ten>Linh</Ten>
+			<NTNS>2000-12-22</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chau Trong An</Ho>
+			<Ten>Hiep</Ten>
+			<NTNS>2006-02-22</NTNS>
+			<DiemTB>2.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Le Hieu Dung</Ho>
+			<Ten>Lien</Ten>
+			<NTNS>1997-03-18</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bo Duc Tuyet</Ho>
+			<Ten>Tram</Ten>
+			<NTNS>1999-03-10</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dieu Trong Ngan</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2002-02-18</NTNS>
+			<DiemTB>0.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tiet Thu Ha</Ho>
+			<Ten>Thuy</Ten>
+			<NTNS>1997-04-24</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Banh Gia Khanh</Ho>
+			<Ten>Chi</Ten>
+			<NTNS>2004-06-19</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Tam Long</Ho>
+			<Ten>Bao</Ten>
+			<NTNS>1997-02-07</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nguyen Tin Thanh</Ho>
+			<Ten>Nhat</Ten>
+			<NTNS>2002-04-15</NTNS>
+			<DiemTB>2.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Cuong Khanh</Ho>
+			<Ten>Cao</Ten>
+			<NTNS>2006-02-26</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Le Tuan Nguyen</Ho>
+			<Ten>Trinh</Ten>
+			<NTNS>2001-12-23</NTNS>
+			<DiemTB>1.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hong Tuyet Tham</Ho>
+			<Ten>My</Ten>
+			<NTNS>2004-03-20</NTNS>
+			<DiemTB>2.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Hong Thanh</Ho>
+			<Ten>Son</Ten>
+			<NTNS>1999-12-02</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bui Khoi Chinh</Ho>
+			<Ten>An</Ten>
+			<NTNS>2003-06-06</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ninh Khoi Trung</Ho>
+			<Ten>Nam</Ten>
+			<NTNS>1997-11-13</NTNS>
+			<DiemTB>1.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Hoa Tram</Ho>
+			<Ten>Vu</Ten>
+			<NTNS>2000-05-12</NTNS>
+			<DiemTB>1.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>To Cuong Nguyet</Ho>
+			<Ten>Hoa</Ten>
+			<NTNS>2004-05-10</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chau Nha Tam</Ho>
+			<Ten>Khang</Ten>
+			<NTNS>2003-03-04</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Phuc Ha</Ho>
+			<Ten>Nhi</Ten>
+			<NTNS>2009-05-11</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mach Phuc Thi</Ho>
+			<Ten>Ky</Ten>
+			<NTNS>2004-11-10</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ta Hoan Tham</Ho>
+			<Ten>Vu</Ten>
+			<NTNS>1998-08-24</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tang Nguyet Quynh</Ho>
+			<Ten>Co</Ten>
+			<NTNS>2006-10-16</NTNS>
+			<DiemTB>1.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Tuyet Nga</Ho>
+			<Ten>Duy</Ten>
+			<NTNS>2006-06-07</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ngo  Thuy</Ho>
+			<Ten>Phuoc</Ten>
+			<NTNS>2003-06-10</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Tham Trong</Ho>
+			<Ten>Chuong</Ten>
+			<NTNS>2001-10-24</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phi Loi Chinh</Ho>
+			<Ten>Hanh</Ten>
+			<NTNS>2002-07-20</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Son Nghi Thi</Ho>
+			<Ten>Khue</Ten>
+			<NTNS>2002-05-24</NTNS>
+			<DiemTB>4.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phi Tuan Chuong</Ho>
+			<Ten>Bao</Ten>
+			<NTNS>2009-06-05</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Nhung My</Ho>
+			<Ten>Chien</Ten>
+			<NTNS>2003-06-18</NTNS>
+			<DiemTB>4.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luong Canh Duc</Ho>
+			<Ten>Diem</Ten>
+			<NTNS>2000-02-04</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dang Thuy Yen</Ho>
+			<Ten>Tu</Ten>
+			<NTNS>2003-02-19</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ba Gia Son</Ho>
+			<Ten>Hiep</Ten>
+			<NTNS>2003-09-04</NTNS>
+			<DiemTB>2.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hong Dan Lam</Ho>
+			<Ten>Chi</Ten>
+			<NTNS>2009-07-04</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dinh Binh Tu</Ho>
+			<Ten>Kien</Ten>
+			<NTNS>2004-07-27</NTNS>
+			<DiemTB>1.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuc Hoai Son</Ho>
+			<Ten>Phuong</Ten>
+			<NTNS>2003-05-14</NTNS>
+			<DiemTB>1.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ngo Quang Nhi</Ho>
+			<Ten>Minh</Ten>
+			<NTNS>1997-03-10</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Bich Nga</Ho>
+			<Ten>Thang</Ten>
+			<NTNS>2004-10-23</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ton Nga Van</Ho>
+			<Ten>Uyen</Ten>
+			<NTNS>2009-08-03</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tieu An Cong</Ho>
+			<Ten>Chuong</Ten>
+			<NTNS>2000-10-23</NTNS>
+			<DiemTB>2.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cao Thuy Lam</Ho>
+			<Ten>Khoa</Ten>
+			<NTNS>2003-06-04</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thuong Cuong Huu</Ho>
+			<Ten>Chuong</Ten>
+			<NTNS>2004-03-03</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quach Gia Hai</Ho>
+			<Ten>An</Ten>
+			<NTNS>1998-06-21</NTNS>
+			<DiemTB>3.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Hanh Hoai</Ho>
+			<Ten>Hau</Ten>
+			<NTNS>2007-03-06</NTNS>
+			<DiemTB>0.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Diep Quang Thu</Ho>
+			<Ten>Ly</Ten>
+			<NTNS>2008-04-09</NTNS>
+			<DiemTB>3.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tong Nguyet Tram</Ho>
+			<Ten>Kiet</Ten>
+			<NTNS>2000-05-27</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Trinh Quoc Dai</Ho>
+			<Ten>Dien</Ten>
+			<NTNS>2006-02-20</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Danh Tin</Ho>
+			<Ten>Phuc</Ten>
+			<NTNS>2009-01-20</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ba Phuong Thu</Ho>
+			<Ten>Kieu</Ten>
+			<NTNS>2008-05-05</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Do Tam Tinh</Ho>
+			<Ten>Khiem</Ten>
+			<NTNS>2002-09-24</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vien Bao Nga</Ho>
+			<Ten>Quoc</Ten>
+			<NTNS>1998-01-13</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuc Tram Tu</Ho>
+			<Ten>Bao</Ten>
+			<NTNS>2009-01-12</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tran Hoa Hong</Ho>
+			<Ten>Thuy</Ten>
+			<NTNS>2008-06-12</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ngo Gia Tam</Ho>
+			<Ten>Phuc</Ten>
+			<NTNS>2003-10-19</NTNS>
+			<DiemTB>2.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vu Long Trong</Ho>
+			<Ten>Chien</Ten>
+			<NTNS>1998-12-22</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Do Thanh Thanh</Ho>
+			<Ten>Hoang</Ten>
+			<NTNS>2009-08-09</NTNS>
+			<DiemTB>4.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Bach Khoi</Ho>
+			<Ten>Tuan</Ten>
+			<NTNS>1997-07-15</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Chinh Dong</Ho>
+			<Ten>An</Ten>
+			<NTNS>2002-05-17</NTNS>
+			<DiemTB>1.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thai Hoan Thuy</Ho>
+			<Ten>Thang</Ten>
+			<NTNS>1999-05-04</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tang Ha Hiep</Ho>
+			<Ten>Long</Ten>
+			<NTNS>1998-10-19</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chau Tham Tam</Ho>
+			<Ten>Huong</Ten>
+			<NTNS>1999-02-15</NTNS>
+			<DiemTB>1.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thuy Hoang Ngan</Ho>
+			<Ten>Khanh</Ten>
+			<NTNS>1997-08-25</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Kieu Huu Long</Ho>
+			<Ten>Hai</Ten>
+			<NTNS>2000-01-03</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thuy Tham Hiep</Ho>
+			<Ten>Khanh</Ten>
+			<NTNS>1999-04-05</NTNS>
+			<DiemTB>1.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cung Manh Thi</Ho>
+			<Ten>Dinh</Ten>
+			<NTNS>1997-02-18</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Nguyen Hai</Ho>
+			<Ten>Thao</Ten>
+			<NTNS>2000-11-13</NTNS>
+			<DiemTB>0.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Han Hai Hau</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2006-07-20</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ky Tung Van</Ho>
+			<Ten>Khoa</Ten>
+			<NTNS>2000-03-23</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Do Loi Lan</Ho>
+			<Ten>Toan</Ten>
+			<NTNS>2008-11-19</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chu Lan Viet</Ho>
+			<Ten>Tram</Ten>
+			<NTNS>1998-12-11</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hua  Nguyen</Ho>
+			<Ten>Ky</Ten>
+			<NTNS>2006-12-24</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Truong Hanh Thi</Ho>
+			<Ten>Di</Ten>
+			<NTNS>1997-11-11</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mach Tram Nhung</Ho>
+			<Ten>Cuong</Ten>
+			<NTNS>2007-04-09</NTNS>
+			<DiemTB>1.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tong Tung Trung</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2005-05-20</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tieu Hoang Hoa</Ho>
+			<Ten>Khac</Ten>
+			<NTNS>2002-08-25</NTNS>
+			<DiemTB>1.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tiet Tri Dong</Ho>
+			<Ten>An</Ten>
+			<NTNS>2009-03-15</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lac Thao Loi</Ho>
+			<Ten>Phuc</Ten>
+			<NTNS>1999-08-22</NTNS>
+			<DiemTB>4.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Gia </Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2003-08-19</NTNS>
+			<DiemTB>2.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Kieu Nguyet Tuan</Ho>
+			<Ten>Dong</Ten>
+			<NTNS>2007-10-02</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tang Thao Dung</Ho>
+			<Ten>Chieu</Ten>
+			<NTNS>2004-01-25</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Hong Khoi</Ho>
+			<Ten>Thanh</Ten>
+			<NTNS>2009-12-09</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hua Tien Thi</Ho>
+			<Ten>Hau</Ten>
+			<NTNS>1997-09-28</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bui Thi Manh</Ho>
+			<Ten>Linh</Ten>
+			<NTNS>2009-05-09</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mach Dinh Tuyet</Ho>
+			<Ten>Trang</Ten>
+			<NTNS>2004-03-08</NTNS>
+			<DiemTB>1.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vien Tham Linh</Ho>
+			<Ten>Dung</Ten>
+			<NTNS>2002-03-11</NTNS>
+			<DiemTB>2.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thai Hai Hong</Ho>
+			<Ten>Hoa</Ten>
+			<NTNS>1999-07-06</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quang Bich Tu</Ho>
+			<Ten>Xuan</Ten>
+			<NTNS>2005-11-07</NTNS>
+			<DiemTB>3.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc An Tam</Ho>
+			<Ten>Hiep</Ten>
+			<NTNS>2003-01-21</NTNS>
+			<DiemTB>1.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ta Tinh Hai</Ho>
+			<Ten>Dung</Ten>
+			<NTNS>2001-11-17</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Cuong Quoc</Ho>
+			<Ten>Chau</Ten>
+			<NTNS>2008-04-14</NTNS>
+			<DiemTB>4.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Le Tinh Trong</Ho>
+			<Ten>Huong</Ten>
+			<NTNS>1997-05-02</NTNS>
+			<DiemTB>3.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bo Minh Tung</Ho>
+			<Ten>Huong</Ten>
+			<NTNS>2009-12-27</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vo Ha Nhi</Ho>
+			<Ten>Hieu</Ten>
+			<NTNS>2009-03-10</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Van Yen</Ho>
+			<Ten>Hai</Ten>
+			<NTNS>1997-11-21</NTNS>
+			<DiemTB>1.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ba Nhi Thuy</Ho>
+			<Ten>Thang</Ten>
+			<NTNS>2008-01-25</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phan Phong Suong</Ho>
+			<Ten>Hue</Ten>
+			<NTNS>2008-12-25</NTNS>
+			<DiemTB>4.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Truong Thi Bao</Ho>
+			<Ten>Nhat</Ten>
+			<NTNS>1997-02-07</NTNS>
+			<DiemTB>4.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Trung Thuy</Ho>
+			<Ten>Dinh</Ten>
+			<NTNS>2004-07-02</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nuong Dan Quynh</Ho>
+			<Ten>Ky</Ten>
+			<NTNS>2007-12-08</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chu  Thanh</Ho>
+			<Ten>Bac</Ten>
+			<NTNS>2004-05-16</NTNS>
+			<DiemTB>3.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cung Huu Ha</Ho>
+			<Ten>Dong</Ten>
+			<NTNS>2001-08-24</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cao Tri Trong</Ho>
+			<Ten>Chien</Ten>
+			<NTNS>2001-10-19</NTNS>
+			<DiemTB>0.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luong Tuong Thien</Ho>
+			<Ten>Ngan</Ten>
+			<NTNS>2001-12-08</NTNS>
+			<DiemTB>2.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Duong Hoan Tu</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>2001-02-25</NTNS>
+			<DiemTB>2.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Du Quynh Long</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2002-08-11</NTNS>
+			<DiemTB>1.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nuong Thu Trung</Ho>
+			<Ten>Long</Ten>
+			<NTNS>2001-07-16</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuat Hoang Dung</Ho>
+			<Ten>Thanh</Ten>
+			<NTNS>2009-09-07</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tran Viet Phong</Ho>
+			<Ten>Hoai</Ten>
+			<NTNS>2003-09-21</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Banh Nhu Thanh</Ho>
+			<Ten>Khac</Ten>
+			<NTNS>2009-05-17</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lam My Viet</Ho>
+			<Ten>Duy</Ten>
+			<NTNS>1999-03-14</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cung Hoang Bich</Ho>
+			<Ten>Viet</Ten>
+			<NTNS>2002-11-24</NTNS>
+			<DiemTB>2.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ninh Dung Bich</Ho>
+			<Ten>Tuan</Ten>
+			<NTNS>2006-09-12</NTNS>
+			<DiemTB>2.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Duong Thu Quoc</Ho>
+			<Ten>Hop</Ten>
+			<NTNS>2005-12-01</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuat Hoa Tin</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>1997-03-27</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Bao Phuong</Ho>
+			<Ten>Chuong</Ten>
+			<NTNS>2002-06-11</NTNS>
+			<DiemTB>1.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Dai Lam</Ho>
+			<Ten>An</Ten>
+			<NTNS>1997-12-26</NTNS>
+			<DiemTB>4.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khong Hong Thao</Ho>
+			<Ten>Khac</Ten>
+			<NTNS>2007-11-05</NTNS>
+			<DiemTB>1.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chu Tien Hong</Ho>
+			<Ten>Chuong</Ten>
+			<NTNS>2005-04-21</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vien Binh Nghi</Ho>
+			<Ten>Dac</Ten>
+			<NTNS>1997-04-07</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bach Minh Nhi</Ho>
+			<Ten>Nguyet</Ten>
+			<NTNS>2002-12-24</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thuy Hanh Phong</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>1998-07-15</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quach Lam Hoang</Ho>
+			<Ten>Tin</Ten>
+			<NTNS>2006-08-04</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mach Trong Khoi</Ho>
+			<Ten>On</Ten>
+			<NTNS>2002-06-11</NTNS>
+			<DiemTB>4.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ha An Van</Ho>
+			<Ten>Loi</Ten>
+			<NTNS>2002-10-20</NTNS>
+			<DiemTB>3.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Dai Long</Ho>
+			<Ten>Tra</Ten>
+			<NTNS>1998-02-10</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Trung Tuong</Ho>
+			<Ten>Di</Ten>
+			<NTNS>1999-05-08</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quach  Quynh</Ho>
+			<Ten>Loc</Ten>
+			<NTNS>2003-06-04</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Nguyen Hoang</Ho>
+			<Ten>Quang</Ten>
+			<NTNS>2005-05-12</NTNS>
+			<DiemTB>0.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dao Hau Bao</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2008-10-12</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lo Tham Thu</Ho>
+			<Ten>Tu</Ten>
+			<NTNS>2008-04-21</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hua Bach Tam</Ho>
+			<Ten>Nhat</Ten>
+			<NTNS>2005-12-27</NTNS>
+			<DiemTB>3.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Khanh Lam</Ho>
+			<Ten>Buu</Ten>
+			<NTNS>2006-10-21</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lo Huu Nhi</Ho>
+			<Ten>Thuy</Ten>
+			<NTNS>2007-04-06</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Du Nguyen Binh</Ho>
+			<Ten>Vinh</Ten>
+			<NTNS>1998-01-25</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chu Nguyen Nha</Ho>
+			<Ten>Di</Ten>
+			<NTNS>2007-11-26</NTNS>
+			<DiemTB>5.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Duc Nguyet</Ho>
+			<Ten>Co</Ten>
+			<NTNS>2007-05-24</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Son Cuong Dong</Ho>
+			<Ten>Huong</Ten>
+			<NTNS>2006-07-24</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Diep Danh Nhien</Ho>
+			<Ten>Hong</Ten>
+			<NTNS>2009-05-27</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Gia Duc</Ho>
+			<Ten>Phat</Ten>
+			<NTNS>2008-08-16</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ho Thi Ha</Ho>
+			<Ten>Thu</Ten>
+			<NTNS>2003-09-26</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vo Nguyen Bach</Ho>
+			<Ten>Thinh</Ten>
+			<NTNS>1998-05-13</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dong Tuan Tri</Ho>
+			<Ten>Dat</Ten>
+			<NTNS>1998-02-07</NTNS>
+			<DiemTB>4.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quang Nhan My</Ho>
+			<Ten>Huu</Ten>
+			<NTNS>2006-05-19</NTNS>
+			<DiemTB>3.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quan Trung Hong</Ho>
+			<Ten>Hoang</Ten>
+			<NTNS>2007-01-08</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>To Hoang Hanh</Ho>
+			<Ten>Kien</Ten>
+			<NTNS>2001-04-15</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chu Linh Hoang</Ho>
+			<Ten>Khang</Ten>
+			<NTNS>2005-02-28</NTNS>
+			<DiemTB>1.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lam Quoc Dong</Ho>
+			<Ten>Hiep</Ten>
+			<NTNS>2004-11-08</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phung Nha Hiep</Ho>
+			<Ten>Hanh</Ten>
+			<NTNS>2006-09-06</NTNS>
+			<DiemTB>2.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuat Nhu Thuy</Ho>
+			<Ten>Son</Ten>
+			<NTNS>2004-09-16</NTNS>
+			<DiemTB>1.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hua Tuyet Ngoc</Ho>
+			<Ten>Khang</Ten>
+			<NTNS>2001-09-13</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vien Tung Duc</Ho>
+			<Ten>Hai</Ten>
+			<NTNS>2000-02-10</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tieu Cuong Nhu</Ho>
+			<Ten>Hieu</Ten>
+			<NTNS>2001-11-27</NTNS>
+			<DiemTB>3.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luong Thi Manh</Ho>
+			<Ten>Hai</Ten>
+			<NTNS>2007-09-17</NTNS>
+			<DiemTB>3.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mai Thang Quang</Ho>
+			<Ten>Ngoc</Ten>
+			<NTNS>2001-04-24</NTNS>
+			<DiemTB>4.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Huynh Bao Phong</Ho>
+			<Ten>Ngoc</Ten>
+			<NTNS>2003-02-13</NTNS>
+			<DiemTB>2.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Han Trong Duy</Ho>
+			<Ten>Cuong</Ten>
+			<NTNS>2007-03-07</NTNS>
+			<DiemTB>3.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mai Thanh Hong</Ho>
+			<Ten>Nhu</Ten>
+			<NTNS>2004-06-09</NTNS>
+			<DiemTB>3.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phan Tin Linh</Ho>
+			<Ten>Trung</Ten>
+			<NTNS>2002-04-14</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Chuong My</Ho>
+			<Ten>Khoa</Ten>
+			<NTNS>1999-08-02</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cao Nhung Binh</Ho>
+			<Ten>Yen</Ten>
+			<NTNS>2003-09-07</NTNS>
+			<DiemTB>2.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chu Nha Chuong</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2007-09-27</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tien Nguyen Nhu</Ho>
+			<Ten>Chuong</Ten>
+			<NTNS>1998-01-18</NTNS>
+			<DiemTB>3.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Duong Quang Yen</Ho>
+			<Ten>Nhu</Ten>
+			<NTNS>2007-07-09</NTNS>
+			<DiemTB>4.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Sam Tram Nguyen</Ho>
+			<Ten>Tin</Ten>
+			<NTNS>2009-06-05</NTNS>
+			<DiemTB>1.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Le Bao Ngoc</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2001-09-02</NTNS>
+			<DiemTB>3.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Dai Khanh</Ho>
+			<Ten>Loi</Ten>
+			<NTNS>2004-05-28</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vuong My Chuong</Ho>
+			<Ten>Loc</Ten>
+			<NTNS>1997-10-11</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dong Van Suong</Ho>
+			<Ten>Thien</Ten>
+			<NTNS>1998-08-02</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dao Thuy Dan</Ho>
+			<Ten>Le</Ten>
+			<NTNS>2003-12-26</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Huynh Thu Thi</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>1997-08-20</NTNS>
+			<DiemTB>2.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quach Tri Nguyet</Ho>
+			<Ten>Tuyen</Ten>
+			<NTNS>2004-03-25</NTNS>
+			<DiemTB>2.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bui Hanh Nghia</Ho>
+			<Ten>Hoai</Ten>
+			<NTNS>2001-05-01</NTNS>
+			<DiemTB>1.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ngo Tuong Nhi</Ho>
+			<Ten>Dung</Ten>
+			<NTNS>1998-12-19</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vi Nguyen Nhung</Ho>
+			<Ten>Huu</Ten>
+			<NTNS>2001-04-26</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vo Khoi Hoang</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>2003-02-15</NTNS>
+			<DiemTB>0.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thai Thi Khanh</Ho>
+			<Ten>Le</Ten>
+			<NTNS>2000-05-26</NTNS>
+			<DiemTB>1.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Truong Khoi Hanh</Ho>
+			<Ten>Khue</Ten>
+			<NTNS>1997-04-19</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Manh Hanh</Ho>
+			<Ten>Ky</Ten>
+			<NTNS>2005-06-24</NTNS>
+			<DiemTB>0.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dao Tu Ngoc</Ho>
+			<Ten>Vinh</Ten>
+			<NTNS>1999-10-14</NTNS>
+			<DiemTB>3.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ky Dan Tung</Ho>
+			<Ten>Ly</Ten>
+			<NTNS>2003-10-21</NTNS>
+			<DiemTB>2.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Gia Son Suong</Ho>
+			<Ten>Gia</Ten>
+			<NTNS>2002-09-08</NTNS>
+			<DiemTB>2.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tong Lan Nhien</Ho>
+			<Ten>Trinh</Ten>
+			<NTNS>1997-04-18</NTNS>
+			<DiemTB>2.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cung Long Hong</Ho>
+			<Ten>Huyen</Ten>
+			<NTNS>1999-08-07</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dinh Tham Nga</Ho>
+			<Ten>Phuc</Ten>
+			<NTNS>1998-10-13</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>La Khanh Thao</Ho>
+			<Ten>Hanh</Ten>
+			<NTNS>1997-12-20</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Pham Tin Hoang</Ho>
+			<Ten>Lam</Ten>
+			<NTNS>2005-01-08</NTNS>
+			<DiemTB>3.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hua Ngan Van</Ho>
+			<Ten>Danh</Ten>
+			<NTNS>1997-02-25</NTNS>
+			<DiemTB>4.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lai Hoang Hoang</Ho>
+			<Ten>Phat</Ten>
+			<NTNS>2002-08-10</NTNS>
+			<DiemTB>2.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tran Viet Dan</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>2000-07-23</NTNS>
+			<DiemTB>3.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>La Son Nha</Ho>
+			<Ten>Hieu</Ten>
+			<NTNS>2001-12-23</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khong Nghia Thao</Ho>
+			<Ten>Boi</Ten>
+			<NTNS>2005-06-06</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lai Dan Lan</Ho>
+			<Ten>Khiem</Ten>
+			<NTNS>1997-01-15</NTNS>
+			<DiemTB>4.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Phuc Nhu</Ho>
+			<Ten>Binh</Ten>
+			<NTNS>2001-07-26</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vi Ngan </Ho>
+			<Ten>Khiem</Ten>
+			<NTNS>2008-08-06</NTNS>
+			<DiemTB>0.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thuong Bao Tuan</Ho>
+			<Ten>Vu</Ten>
+			<NTNS>2009-01-25</NTNS>
+			<DiemTB>5.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lai Nha Danh</Ho>
+			<Ten>Chanh</Ten>
+			<NTNS>2000-03-23</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vo Nha Thien</Ho>
+			<Ten>Lan</Ten>
+			<NTNS>2002-06-21</NTNS>
+			<DiemTB>3.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cao Canh Nhien</Ho>
+			<Ten>Long</Ten>
+			<NTNS>2006-01-16</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Giang Hoang Hau</Ho>
+			<Ten>Xuan</Ten>
+			<NTNS>1997-05-01</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Khoi Nhung</Ho>
+			<Ten>Dieu</Ten>
+			<NTNS>2002-02-11</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cao Trung Nhung</Ho>
+			<Ten>Dinh</Ten>
+			<NTNS>2002-03-14</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thai Phuong Nguyen</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2004-12-21</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lam Trung Hoan</Ho>
+			<Ten>Tuan</Ten>
+			<NTNS>2003-04-02</NTNS>
+			<DiemTB>2.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quan Cuong Thuy</Ho>
+			<Ten>Co</Ten>
+			<NTNS>1997-12-04</NTNS>
+			<DiemTB>2.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nghe Nguyet Nhien</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2008-10-11</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hoang Hoan Dan</Ho>
+			<Ten>Danh</Ten>
+			<NTNS>2006-05-25</NTNS>
+			<DiemTB>5.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ha Tuan Danh</Ho>
+			<Ten>Huu</Ten>
+			<NTNS>2000-11-02</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cung Gia Cuong</Ho>
+			<Ten>Hoa</Ten>
+			<NTNS>2007-02-20</NTNS>
+			<DiemTB>3.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Van Hanh Khanh</Ho>
+			<Ten>Gia</Ten>
+			<NTNS>2005-01-20</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Sam Hong Dinh</Ho>
+			<Ten>Dong</Ten>
+			<NTNS>2009-08-16</NTNS>
+			<DiemTB>1.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quach Viet Thanh</Ho>
+			<Ten>Danh</Ten>
+			<NTNS>2001-05-19</NTNS>
+			<DiemTB>1.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hua  Hanh</Ho>
+			<Ten>Viet</Ten>
+			<NTNS>2007-06-23</NTNS>
+			<DiemTB>2.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Su Lan Hoang</Ho>
+			<Ten>Chi</Ten>
+			<NTNS>2004-09-08</NTNS>
+			<DiemTB>3.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc  Trung</Ho>
+			<Ten>Thuy</Ten>
+			<NTNS>2000-07-09</NTNS>
+			<DiemTB>1.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Au Hong Duy</Ho>
+			<Ten>Dinh</Ten>
+			<NTNS>1999-11-23</NTNS>
+			<DiemTB>1.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dieu Nghi Quoc</Ho>
+			<Ten>Tuong</Ten>
+			<NTNS>2003-02-23</NTNS>
+			<DiemTB>2.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lu Khanh Ha</Ho>
+			<Ten>Xuan</Ten>
+			<NTNS>2003-06-26</NTNS>
+			<DiemTB>2.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ngo Tu Hanh</Ho>
+			<Ten>Yen</Ten>
+			<NTNS>2004-03-28</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phuong Nhu Duc</Ho>
+			<Ten>Duyen</Ten>
+			<NTNS>1998-05-23</NTNS>
+			<DiemTB>4.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lai Dan Hoang</Ho>
+			<Ten>Tri</Ten>
+			<NTNS>2002-03-16</NTNS>
+			<DiemTB>1.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Do Bach Chuong</Ho>
+			<Ten>Bao</Ten>
+			<NTNS>2003-03-01</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dinh Dung Hung</Ho>
+			<Ten>An</Ten>
+			<NTNS>1998-05-26</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hua Nguyen Thao</Ho>
+			<Ten>Yen</Ten>
+			<NTNS>2004-05-07</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phan Hong Nguyen</Ho>
+			<Ten>Tin</Ten>
+			<NTNS>2002-12-13</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vo Gia Thanh</Ho>
+			<Ten>Xuan</Ten>
+			<NTNS>2003-01-07</NTNS>
+			<DiemTB>4.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dieu Binh Hau</Ho>
+			<Ten>Ngoc</Ten>
+			<NTNS>2005-11-19</NTNS>
+			<DiemTB>4.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Gia Bich Dai</Ho>
+			<Ten>Phuoc</Ten>
+			<NTNS>2004-07-25</NTNS>
+			<DiemTB>2.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nguyen Hieu Nga</Ho>
+			<Ten>Hoa</Ten>
+			<NTNS>2008-06-04</NTNS>
+			<DiemTB>2.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Le Nghia Hoan</Ho>
+			<Ten>Gia</Ten>
+			<NTNS>2003-07-08</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Tran Hoan An</Ho>
+			<Ten>Chau</Ten>
+			<NTNS>2009-02-17</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lo Thang Tri</Ho>
+			<Ten>Dung</Ten>
+			<NTNS>2006-07-10</NTNS>
+			<DiemTB>0.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Thu Dinh</Ho>
+			<Ten>Huyen</Ten>
+			<NTNS>2000-12-23</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thuong Khoi Binh</Ho>
+			<Ten>Gia</Ten>
+			<NTNS>2004-02-24</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Giang Nha Khoi</Ho>
+			<Ten>An</Ten>
+			<NTNS>1998-02-18</NTNS>
+			<DiemTB>4.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Duong Thi Long</Ho>
+			<Ten>Duyen</Ten>
+			<NTNS>2001-06-17</NTNS>
+			<DiemTB>2.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ky Nhung Khanh</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2008-12-11</NTNS>
+			<DiemTB>3.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Kieu Thuy Van</Ho>
+			<Ten>Linh</Ten>
+			<NTNS>2002-11-26</NTNS>
+			<DiemTB>1.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vien Bao Tung</Ho>
+			<Ten>Thang</Ten>
+			<NTNS>2000-06-28</NTNS>
+			<DiemTB>3.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cung Hanh Dai</Ho>
+			<Ten>Quoc</Ten>
+			<NTNS>2000-07-18</NTNS>
+			<DiemTB>3.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Duc Chuong</Ho>
+			<Ten>Thuy</Ten>
+			<NTNS>2007-02-18</NTNS>
+			<DiemTB>3.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Trinh Thanh Bach</Ho>
+			<Ten>Truong</Ten>
+			<NTNS>2002-03-15</NTNS>
+			<DiemTB>0.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuat Lan Hong</Ho>
+			<Ten>Dung</Ten>
+			<NTNS>1999-03-08</NTNS>
+			<DiemTB>2.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lac Manh Duc</Ho>
+			<Ten>Son</Ten>
+			<NTNS>2009-06-22</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ton Hoang Bach</Ho>
+			<Ten>Truong</Ten>
+			<NTNS>2006-02-19</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mai Huu Thao</Ho>
+			<Ten>Trung</Ten>
+			<NTNS>2003-04-03</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Phi Tam Yen</Ho>
+			<Ten>Vy</Ten>
+			<NTNS>2000-09-17</NTNS>
+			<DiemTB>1.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luc Nhu Tuong</Ho>
+			<Ten>Khoi</Ten>
+			<NTNS>2001-10-11</NTNS>
+			<DiemTB>1.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Linh Hiep</Ho>
+			<Ten>An</Ten>
+			<NTNS>2006-02-15</NTNS>
+			<DiemTB>3.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quan Tuyet Hoang</Ho>
+			<Ten>Dien</Ten>
+			<NTNS>2002-11-20</NTNS>
+			<DiemTB>3.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khong Van Hanh</Ho>
+			<Ten>Quan</Ten>
+			<NTNS>1999-03-17</NTNS>
+			<DiemTB>4.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Huynh Gia Khoi</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>1998-06-01</NTNS>
+			<DiemTB>3.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ton Loi Bao</Ho>
+			<Ten>Huyen</Ten>
+			<NTNS>2001-12-12</NTNS>
+			<DiemTB>4.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quang Nhu Bao</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>2004-12-10</NTNS>
+			<DiemTB>2.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hoang Hoang Dan</Ho>
+			<Ten>An</Ten>
+			<NTNS>2008-10-16</NTNS>
+			<DiemTB>2.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Trang Nhien Nga</Ho>
+			<Ten>Mai</Ten>
+			<NTNS>2001-03-06</NTNS>
+			<DiemTB>3.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Nguyen Thien Thi</Ho>
+			<Ten>Dong</Ten>
+			<NTNS>1998-09-22</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quach Tung Huu</Ho>
+			<Ten>Sa</Ten>
+			<NTNS>2008-12-06</NTNS>
+			<DiemTB>2.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Trang Nhan Trong</Ho>
+			<Ten>Phuoc</Ten>
+			<NTNS>1999-07-18</NTNS>
+			<DiemTB>2.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ninh Thi Nhi</Ho>
+			<Ten>Dieu</Ten>
+			<NTNS>2005-01-16</NTNS>
+			<DiemTB>0.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Luu Canh Tham</Ho>
+			<Ten>Chanh</Ten>
+			<NTNS>2008-04-23</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Trang Dong Ngan</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2000-07-14</NTNS>
+			<DiemTB>2.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Son Ha Lam</Ho>
+			<Ten>Tu</Ten>
+			<NTNS>2002-05-04</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lac Nghia Manh</Ho>
+			<Ten>Liem</Ten>
+			<NTNS>2002-10-26</NTNS>
+			<DiemTB>1.7</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dang Dinh Thao</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>1999-03-09</NTNS>
+			<DiemTB>4.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Han Tri Bach</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>2007-08-15</NTNS>
+			<DiemTB>2.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Le Thu Thanh</Ho>
+			<Ten>Cuong</Ten>
+			<NTNS>2009-07-10</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quan Thi Thi</Ho>
+			<Ten>Thinh</Ten>
+			<NTNS>2009-06-15</NTNS>
+			<DiemTB>4.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Linh Trung</Ho>
+			<Ten>Truong</Ten>
+			<NTNS>2001-08-24</NTNS>
+			<DiemTB>1.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ho Duc Hiep</Ho>
+			<Ten>Bao</Ten>
+			<NTNS>1999-03-09</NTNS>
+			<DiemTB>4.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Lai Dan Van</Ho>
+			<Ten>Khai</Ten>
+			<NTNS>2005-12-12</NTNS>
+			<DiemTB>4.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dang Tri Thien</Ho>
+			<Ten>Khoa</Ten>
+			<NTNS>2009-10-27</NTNS>
+			<DiemTB>4.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ly Hoa Trung</Ho>
+			<Ten>Lam</Ten>
+			<NTNS>2009-07-01</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Van Tung Thao</Ho>
+			<Ten>Hai</Ten>
+			<NTNS>2000-10-22</NTNS>
+			<DiemTB>4.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Hoang Trung Hoang</Ho>
+			<Ten>Anh</Ten>
+			<NTNS>1998-01-19</NTNS>
+			<DiemTB>2.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Du Tu Hiep</Ho>
+			<Ten>Ha</Ten>
+			<NTNS>2007-04-21</NTNS>
+			<DiemTB>3.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Banh Nhien Tuyet</Ho>
+			<Ten>Hiep</Ten>
+			<NTNS>2005-11-27</NTNS>
+			<DiemTB>0.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Cung Nguyen Duy</Ho>
+			<Ten>Hoai</Ten>
+			<NTNS>2009-07-11</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Minh Viet</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2004-05-13</NTNS>
+			<DiemTB>0.1</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vien Nhu Hong</Ho>
+			<Ten>Linh</Ten>
+			<NTNS>2005-03-21</NTNS>
+			<DiemTB>0.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vu Trong Chinh</Ho>
+			<Ten>Viet</Ten>
+			<NTNS>2004-08-14</NTNS>
+			<DiemTB>4.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vien Thi Thao</Ho>
+			<Ten>Boi</Ten>
+			<NTNS>2001-02-02</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chu Thi Dinh</Ho>
+			<Ten>Dat</Ten>
+			<NTNS>2007-03-06</NTNS>
+			<DiemTB>3.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Su Van Khanh</Ho>
+			<Ten>Kiet</Ten>
+			<NTNS>2003-04-06</NTNS>
+			<DiemTB>0.2</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quan Nhung Nhan</Ho>
+			<Ten>Chien</Ten>
+			<NTNS>2005-09-22</NTNS>
+			<DiemTB>0.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuc Thuy Huu</Ho>
+			<Ten>Thanh</Ten>
+			<NTNS>2008-06-11</NTNS>
+			<DiemTB>3.4</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Doan Danh Hoang</Ho>
+			<Ten>Nguyen</Ten>
+			<NTNS>1998-11-24</NTNS>
+			<DiemTB>0.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bo Ngan Ngan</Ho>
+			<Ten>Nhi</Ten>
+			<NTNS>2005-01-02</NTNS>
+			<DiemTB>0.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Chau Khanh Thao</Ho>
+			<Ten>Hai</Ten>
+			<NTNS>2008-11-06</NTNS>
+			<DiemTB>2.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Quan Hong Nghia</Ho>
+			<Ten>Nguyen</Ten>
+			<NTNS>2008-12-06</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Khuat Hoa Tien</Ho>
+			<Ten>Hiep</Ten>
+			<NTNS>2009-07-05</NTNS>
+			<DiemTB>1.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>La Yen Tuan</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2004-09-25</NTNS>
+			<DiemTB>1.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Mai Bich Dung</Ho>
+			<Ten>Phuc</Ten>
+			<NTNS>2009-01-20</NTNS>
+			<DiemTB>0.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ho Hiep Danh</Ho>
+			<Ten>Duc</Ten>
+			<NTNS>2003-03-16</NTNS>
+			<DiemTB>1.8</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Bo Tuyet Dung</Ho>
+			<Ten>An</Ten>
+			<NTNS>2007-04-05</NTNS>
+			<DiemTB>3.0</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Dong Hanh Hau</Ho>
+			<Ten>Dong</Ten>
+			<NTNS>2003-07-20</NTNS>
+			<DiemTB>4.9</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Ninh Thang Trong</Ho>
+			<Ten>Hoan</Ten>
+			<NTNS>2002-12-19</NTNS>
+			<DiemTB>2.6</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Thieu Trong Binh</Ho>
+			<Ten>Xuan</Ten>
+			<NTNS>2007-12-15</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Sam Canh Long</Ho>
+			<Ten>Dung</Ten>
+			<NTNS>2002-03-08</NTNS>
+			<DiemTB>4.3</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+		<HocSinh>
+			<Ho>Vuong Thuy Binh</Ho>
+			<Ten>Huong</Ten>
+			<NTNS>2002-09-14</NTNS>
+			<DiemTB>4.5</DiemTB>
+			<XepLoai>Yeu</XepLoai>
+			<KetQua>Chua hoan thanh</KetQua>
+		</HocSinh>
+	</HocSinhList>
+	<Thoigiantruyvan>0.2135159969329834</Thoigiantruyvan>
+</Root>
